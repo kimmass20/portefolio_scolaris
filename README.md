@@ -1,2 +1,2 @@
 # portefolio_scolaris
-model final du porte folio de la startup scolaris
+model final du portefolio de la startup scolaris
